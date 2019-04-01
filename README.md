@@ -1,2 +1,2 @@
-# JustStat-webpages
-JustStat webgapes repository
+# JustStat
+Statistical Consulting
