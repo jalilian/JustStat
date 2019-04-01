@@ -3,3 +3,4 @@ theme: jekyll-theme-minimal
 
 title: [JustStat]
 description: [Statistical Consulting]
+show_downloads: true
